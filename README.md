@@ -9,6 +9,8 @@ Install dependencies, then start the Webpack process with the following:
 > npm start
 ```
 
+Then visit [http://localhost:8080](http://localhost:8080)
+
 ## Thanks
 
 Based on the [ReduxSimpleStarter](https://github.com/StephenGrider/ReactStarter/releases) project
